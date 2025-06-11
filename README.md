@@ -1,4 +1,4 @@
-# Wildfire Delineation (Task 5 – 06 Feb 2025)
+# Wildfire Delineation, 06 Jnue 2025
 
 This notebook performs burned-area delineation for Ecuador over a reference and a crediting period, using MODIS FireCCI51 data and Google Earth Engine in Google Colab.
 
